@@ -59,9 +59,19 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![image](https://github.com/nithilans060306/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147473026/a36a1f95-c30b-49e8-84ec-a775e962cf52)
+
+![image](https://github.com/nithilans060306/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147473026/96cefdf5-9809-4b30-968c-77fe770c8c3d)
+
+![image](https://github.com/nithilans060306/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147473026/1981bc29-2944-44ac-bc1c-00e8fb2c701f)
+
+![image](https://github.com/nithilans060306/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147473026/af0726f3-b785-4d05-9e25-e0db51015062)
 
 ### Name: 
+Nithilan
+
 ### Register Number:
+23013463
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
