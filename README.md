@@ -59,13 +59,13 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-![image](https://github.com/nithilans060306/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147473026/a36a1f95-c30b-49e8-84ec-a775e962cf52)
+![image](https://github.com/nithilans060306/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147473026/c2de9291-f4b4-4f51-9127-fec207a2ed9e)
 
-![image](https://github.com/nithilans060306/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147473026/96cefdf5-9809-4b30-968c-77fe770c8c3d)
+![image](https://github.com/nithilans060306/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147473026/e29b4d67-f6a8-4d6a-92c0-7a9f72ce75cc)
 
-![image](https://github.com/nithilans060306/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147473026/1981bc29-2944-44ac-bc1c-00e8fb2c701f)
+![image](https://github.com/nithilans060306/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147473026/436b49a6-0f94-4792-83c8-d02bc46ce632)
 
-![image](https://github.com/nithilans060306/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147473026/af0726f3-b785-4d05-9e25-e0db51015062)
+![image](https://github.com/nithilans060306/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147473026/20d8d0e5-aedc-4f0e-ad9d-4ea22e975260)
 
 ### Name: 
 Nithilan
